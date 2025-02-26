@@ -1,1 +1,1 @@
-numero Secreto
+numero-secreto
